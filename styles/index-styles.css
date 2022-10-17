@@ -1,4 +1,8 @@
 * {
     text-align: center;
     background-color: bisque;
+    box-sizing: border-box;
+}
+li {
+    margin: 20px;
 }
